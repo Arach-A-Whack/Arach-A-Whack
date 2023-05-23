@@ -14,7 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   templateScene: {fileID: 102900000, guid: b636fd5c3808bb24093cbb9864948d21, type: 3}
   templateName: Game Scene
-  description: 
+  description: An Empty 3D Scene with a Camera, a Directional Light, and the Default
+    Post Processing Volume.
   preview: {fileID: 0}
   dependencies:
   - dependency: {fileID: 11400000, guid: c36233c2aa1bdb940b3ffb4d55befff4, type: 2}
