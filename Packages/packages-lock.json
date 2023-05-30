@@ -35,7 +35,7 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.inputsystem": {
-      "version": "1.4.3",
+      "version": "1.4.4",
       "depth": 1,
       "source": "registry",
       "dependencies": {
@@ -167,6 +167,28 @@
         "com.unity.inputsystem": "1.4.2"
       },
       "url": "https://packages.unity.com"
+    },
+    "net.harrybosch.handyvr": {
+      "version": "file:net.harrybosch.handyvr",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {
+        "com.unity.inputsystem": "1.4.4",
+        "com.unity.xr.oculus": "3.2.3",
+        "com.unity.xr.openxr": "1.5.3"
+      }
+    },
+    "net.harrybosch.sharinator": {
+      "version": "file:net.harrybosch.sharinator",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
+    "net.harrybosch.toolbarinator": {
+      "version": "file:net.harrybosch.toolbarinator",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
     },
     "com.unity.modules.ai": {
       "version": "1.0.0",
